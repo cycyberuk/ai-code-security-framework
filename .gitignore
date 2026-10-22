@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Data and results (too large for GitHub)
+data/
+results/
